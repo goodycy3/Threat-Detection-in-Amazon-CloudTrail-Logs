@@ -7,7 +7,7 @@ This project aims to guide you in enhancing threat detection within your AWS env
 🕵️‍♂️ Detecting Anomalies using decoy  <br/>
 🕵️‍♂️ Threat Detection with CloudTrail Insights
 
-##Investigative Questions or queries evaluated in this lab include
+## Investigative Questions or queries evaluated in this lab include
 🤌 Attempts to Launch EC2 instances by a specific user ARN <br/>
 🤌 Who has Root access through the console <br/>
 🤌 Hunting for sign-in failures to the AWS console <br/>
