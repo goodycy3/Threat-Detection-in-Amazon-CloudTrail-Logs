@@ -5,7 +5,10 @@ This project aims to guide you in enhancing threat detection within your AWS env
 🕵️‍♂️ Behavior-Based Threat Detection in the AWS <br/>
 🕵️‍♂️ Detecting Anomalies in CloudTrail with CloudWatch  <br/>
 🕵️‍♂️ Detecting Anomalies using decoy  <br/>
-🕵️‍♂️ Threat Detection with CloudTrail Insights
+🕵️‍♂️ Threat Detection with CloudTrail Insights 
+
+<h3>READ ME 📖<h3/> <a href="https://medium.com/@goodycyb/threat-detection-in-aws-using-amazon-athena-to-analyze-cloudtrail-logs-from-flaws-cloud-00a43348d18a">Threat detection in AWS using Amazon Athena to Analyze Cloudtrail logs from flaws.cloud</a>
+
 
 ## Investigative Questions or queries evaluated in this lab include
 🤌 Attempts to Launch EC2 instances by a specific user ARN <br/>
@@ -25,3 +28,5 @@ This project aims to guide you in enhancing threat detection within your AWS env
 🤌 Creation of public S3 buckets <br/>
 🤌 Brute force attempts to assume roles <br/>
 🤌 Attempts to perform recon actions on accounts
+
+<h3>READ ME 📖<h3/> <a href="https://goodycyb.hashnode.dev/threat-detection-in-aws-using-amazon-athena-to-analyze-cloudtrail-logs-from-flawscloud">Threat detection🕵️‍♂️ in AWS using Amazon Athena Service - Hands-on Lab Guide</a>
